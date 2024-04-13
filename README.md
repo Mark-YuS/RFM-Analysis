@@ -21,4 +21,4 @@ By implementing RFM analysis, the company can make data-driven decisions to opti
 
 ---
 
-For more information on how to conduct RFM analysis and implement strategies based on findings, please refer to 
+For more information on how to conduct RFM analysis and implement strategies based on findings, please refer to [RFM.ipynb](https://github.com/Mark-YuS/RFM_Analysis/blob/main/RFM.ipynb)
